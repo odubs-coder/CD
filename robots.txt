@@ -1,0 +1,6 @@
+# CD Building Solutions — cdbuildingsolutions.co.uk
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.cdbuildingsolutions.co.uk/sitemap.xml
